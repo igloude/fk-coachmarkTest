@@ -1,0 +1,16 @@
+# standard ignores
+/node_modules
+/dist
+npm-debug.log
+.DS_Store
+.vscode
+
+# static site output
+.out
+
+# npm pack output
+*.tgz
+
+cypress/videos/
+cypress/screenshots/
+coverage
